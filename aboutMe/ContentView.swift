@@ -21,7 +21,7 @@ struct ContentView: View {
                     .cornerRadius(20)
                 
                 HStack(spacing: 15){
-                    Text("stephanie wang")
+                    Text("stephanie wang :D")
                         .font(.title)
                         .fontWeight(.bold)
                         .foregroundColor(Color.pink)
